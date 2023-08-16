@@ -63,7 +63,7 @@ const Hero = () => {
           <span>116 bpm</span>
         </div>
 
-        <img src={hero_image} className="hero_image" />
+        <img src={hero_image} className="hero_image" alt="hero" />
         <img src={hero_image_back} alt="wef" className="hero_image_back" />
 
         <div className="calories">
